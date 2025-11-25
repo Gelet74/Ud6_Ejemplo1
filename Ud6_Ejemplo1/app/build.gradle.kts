@@ -55,6 +55,9 @@ dependencies {
     implementation(libs.jetbrains.kotlinx.serialization)
     implementation(libs.jakewharton.retrofit)
     implementation(libs.squareup.okhttp3)
+    implementation(libs.androidx.navigation.compose)
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
 
 
     testImplementation(libs.junit)

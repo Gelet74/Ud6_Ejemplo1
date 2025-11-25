@@ -14,6 +14,10 @@ kotlinsSerialization ="1.5.1"
 jakewhertonRetrofit ="1.0.0"
 squareupOkhttp3 ="4.12.0"
 serialization ="1.9.10"
+navigation = "2.8.3"
+runtime = "1.9.4"
+roomKtx = "2.8.3"
+navigationRuntimeKtx = "2.9.5"
 
 
 [libraries]
@@ -36,6 +40,9 @@ squareup-retrofit = { group = "com.squareup.retrofit2", name = "retrofit", versi
 jetbrains-kotlinx-serialization = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref="kotlinsSerialization"}
 jakewharton-retrofit = { group = "com.jakewharton.retrofit", name = "retrofit2-kotlinx-serialization-converter", version.ref = "jakewhertonRetrofit" }
 squareup-okhttp3 = { group = "com.squareup.okhttp3", name = "okhttp", version.ref = "squareupOkhttp3" }
+androidx-navigation-runtime-ktx = { group = "androidx.navigation", name = "navigation-runtime-ktx", version.ref = "navigationRuntimeKtx" }
+androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigation" }
+
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
