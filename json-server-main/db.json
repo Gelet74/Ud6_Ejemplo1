@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "trabajadores": [
+    {
+      "id": "2b7d",
+      "nombre": "yo\t",
+      "apellidos": "gfgf",
+      "email": "dfdfdf"
+    }
+  ],
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Libro",
+      "precio": 12.5
+    },
+    {
+      "id": "2",
+      "nombre": "CD",
+      "precio": 20
+    },
+    {
+      "id": "3",
+      "nombre": "DVD",
+      "precio": 30
+    }
+  ],
+  "usuario": {
+    "id": "1",
+    "nombre": "Pepito"
+  }
+}

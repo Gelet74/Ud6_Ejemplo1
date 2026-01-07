@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_barbacoa.jpg.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/barbacoa.jpg"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.proyecto1.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_cerdo.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/cerdo.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_sin_pina.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/sin_pina.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_margarita.jpg.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/margarita.jpg"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_sin_champi.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/sin_champi.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_sin_bebida.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/sin_bebida.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.proyecto1.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_pollo.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/pollo.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_agua.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/agua.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_vegana.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/vegana.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_champi.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/champi.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_logo_pizza.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/logo_pizza.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_mastercard.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/mastercard.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_ternera.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/ternera.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_euro6000.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/euro6000.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_pina.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/pina.png"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.proyecto1.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_imagen1.jpg.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/imagen1.jpg"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_romana.jpg.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/romana.jpg"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_cola.jpg.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/cola.jpg"
+    },
+    {
+        "merged": "com.example.proyecto1.app-debug-35:/drawable-nodpi_visa.png.flat",
+        "source": "com.example.proyecto1.app-main-37:/drawable-nodpi/visa.png"
+    }
+]
